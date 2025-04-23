@@ -1,132 +1,132 @@
 {
   "sbisec": {
-    "date": "2025-04-23",
+    "date": "2025-04-24",
     "max_reward": 24000,
     "site": "ハピタス",
     "url": "https://m.hapitas.jp/item/detail/itemid/53979?i=25078586&route=pcText&apn=itemsharelink"
   },
   "rakutensec": {
-    "date": "2025-04-23",
+    "date": "2025-04-24",
     "max_reward": 11000,
     "site": "ハピタス",
     "url": "https://m.hapitas.jp/item/detail/itemid/35520?i=25078586&route=pcText&apn=itemsharelink"
   },
   "monexsec": {
-    "date": "2025-04-23",
+    "date": "2025-04-24",
     "max_reward": 16500,
     "site": "Powl",
     "url": "https://web.powl.jp/reward/7284?invite_code=PYKYNSMKSOL"
   },
   "matsuisec": {
-    "date": "2025-04-23",
+    "date": "2025-04-24",
     "max_reward": 1500,
     "site": "ハピタス",
     "url": "https://m.hapitas.jp/item/detail/itemid/24092?i=25078586&route=pcText&apn=itemsharelink"
   },
   "esmartsec": {
-    "date": "2025-04-23",
+    "date": "2025-04-24",
     "max_reward": 12000,
     "site": "Powl",
     "url": "https://web.powl.jp/reward/20327?invite_code=PYKYNSMKSOL"
   },
   "olivebank": {
-    "date": "2025-04-23",
+    "date": "2025-04-24",
     "max_reward": 12825,
     "site": "ハピタス",
     "url": "https://m.hapitas.jp/item/detail/itemid/93718?i=25078586&route=pcText&apn=itemsharelink"
   },
   "olivecard": {
-    "date": "2025-04-23",
+    "date": "2025-04-24",
     "max_reward": 15390,
     "site": "ハピタス",
     "url": "https://m.hapitas.jp/item/detail/itemid/92532?i=25078586&route=pcText&apn=itemsharelink"
   },
   "mufgbank": {
-    "date": "2025-04-23",
+    "date": "2025-04-24",
     "max_reward": 1500,
     "site": "ハピタス",
     "url": "https://m.hapitas.jp/item/detail/itemid/92479?i=25078586&route=pcText&apn=itemsharelink"
   },
   "risonabank": {
-    "date": "2025-04-23",
-    "max_reward": 2000,
+    "date": "2025-04-24",
+    "max_reward": 1500,
     "site": "ハピタス",
     "url": "https://m.hapitas.jp/item/detail/itemid/93714?i=25078586&route=pcText&apn=itemsharelink"
   },
   "smbccard": {
-    "date": "2025-04-23",
+    "date": "2025-04-24",
     "max_reward": 8500,
     "site": "ハピタス",
     "url": "https://m.hapitas.jp/item/detail/itemid/91934?i=25078586&route=pcText&apn=itemsharelink"
   },
   "smbccardgold": {
-    "date": "2025-04-23",
+    "date": "2025-04-24",
     "max_reward": 11000,
     "site": "モッピー",
     "url": "https://pc.moppy.jp/entry/invite.php?invite=sWJZA18e&s_id=150189"
   },
   "rakutencard": {
-    "date": "2025-04-23",
+    "date": "2025-04-24",
     "max_reward": 9000,
     "site": "ハピタス",
     "url": "https://m.hapitas.jp/item/detail/itemid/1594?i=25078586&route=pcText&apn=itemsharelink"
   },
   "eposcard": {
-    "date": "2025-04-23",
+    "date": "2025-04-24",
     "max_reward": 12000,
     "site": "モッピー",
     "url": "https://pc.moppy.jp/entry/invite.php?invite=sWJZA18e&s_id=102162"
   },
   "dcardgold": {
-    "date": "2025-04-23",
+    "date": "2025-04-24",
     "max_reward": 10000,
     "site": "ハピタス",
     "url": "https://m.hapitas.jp/item/detail/itemid/52832?i=25078586&route=pcText&apn=itemsharelink"
   },
   "dcardgoldu": {
-    "date": "2025-04-23",
+    "date": "2025-04-24",
     "max_reward": 20000,
     "site": "ハピタス",
     "url": "https://m.hapitas.jp/item/detail/itemid/94053?i=25078586&route=pcText&apn=itemsharelink"
   },
   "mufgcard": {
-    "date": "2025-04-23",
+    "date": "2025-04-24",
     "max_reward": 3000,
     "site": "モッピー",
     "url": "https://pc.moppy.jp/entry/invite.php?invite=sWJZA18e&s_id=157374"
   },
   "minnafx": {
-    "date": "2025-04-23",
+    "date": "2025-04-24",
     "max_reward": 16500,
     "site": "ハピタス",
     "url": "https://m.hapitas.jp/item/detail/itemid/92324?i=25078586&route=pcText&apn=itemsharelink"
   },
   "lightfx": {
-    "date": "2025-04-23",
+    "date": "2025-04-24",
     "max_reward": 15000,
     "site": "ハピタス",
     "url": "https://m.hapitas.jp/item/detail/itemid/91468?i=25078586&route=pcText&apn=itemsharelink"
   },
   "linefx": {
-    "date": "2025-04-23",
+    "date": "2025-04-24",
     "max_reward": 17000,
     "site": "ハピタス",
     "url": "https://m.hapitas.jp/item/detail/itemid/91771?i=25078586&route=pcText&apn=itemsharelink"
   },
   "hirosefx": {
-    "date": "2025-04-23",
-    "max_reward": 14000,
-    "site": "ハピタス",
-    "url": "https://m.hapitas.jp/item/detail/itemid/23693?i=25078586&route=pcText&apn=itemsharelink"
+    "date": "2025-04-24",
+    "max_reward": 20000,
+    "site": "ちょびリッチ",
+    "url": "https://www.chobirich.com/ad_details/51460/?utm_campaign=social_btn&utm_content=4979445&utm_medium=4979445&utm_source=urlLink"
   },
   "sbifx": {
-    "date": "2025-04-23",
+    "date": "2025-04-24",
     "max_reward": 12000,
     "site": "ハピタス",
     "url": "https://m.hapitas.jp/item/detail/itemid/91325?i=25078586&route=pcText&apn=itemsharelink"
   },
   "gaitamecomfx": {
-    "date": "2025-04-23",
+    "date": "2025-04-24",
     "max_reward": 16000,
     "site": "ハピタス",
     "url": "https://m.hapitas.jp/item/detail/itemid/92642?i=25078586&route=pcText&apn=itemsharelink"

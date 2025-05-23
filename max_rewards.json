@@ -286,11 +286,14 @@
     "url": 20000,
     "rise_rate": 0.0
   },
-    "rakutenichiba": {
+  "rakutenichiba": {
     "date": "2025-05-23",
-    "max_reward": 1,
+    "max_reward": 1.0,
     "site": "ハピタス",
     "url": 1,
-    "rise_rate": 0.0
+    "rise_rate": 0.0,
+    "overall_max_reward_value": 1.0,
+    "overall_max_reward_date": "2025-05-22",
+    "reward_type": "変動"
   }
 }

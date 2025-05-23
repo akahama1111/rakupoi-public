@@ -289,14 +289,44 @@
     "overall_max_reward_date": "2025-04-29",
     "reward_type": "固定"
   },
+  "smbcbizownerscardgold": {
+    "date": "2025-05-24",
+    "max_reward": 22000,
+    "site": "ちょびリッチ",
+    "url": 22000,
+    "rise_rate": 0,
+    "overall_max_reward_value": 28000,
+    "overall_max_reward_date": "2025-04-25",
+    "reward_type": "固定"
+  },
+  "bittrade": {
+    "date": "2025-05-24",
+    "max_reward": 12000,
+    "site": "アメフリ",
+    "url": 12000,
+    "rise_rate": 0,
+    "overall_max_reward_value": 13000,
+    "overall_max_reward_date": "2025-04-29",
+    "reward_type": "固定"
+  },
+  "coincheck": {
+    "date": "2025-05-24",
+    "max_reward": 4500,
+    "site": "ちょびリッチ",
+    "url": 4500,
+    "rise_rate": 12,
+    "overall_max_reward_value": 10100,
+    "overall_max_reward_date": "2025-04-28",
+    "reward_type": "固定"
+  },
   "dmmtv": {
     "date": "2025-05-24",
-    "max_reward": 2100,
-    "site": "アメフリ",
-    "url": 2100,
-    "rise_rate": 282,
-    "overall_max_reward_value": 2100,
-    "overall_max_reward_date": "2025-05-24",
+    "max_reward": 550,
+    "site": "ハピタス",
+    "url": 550,
+    "rise_rate": 0,
+    "overall_max_reward_value": 550,
+    "overall_max_reward_date": "2025-04-25",
     "reward_type": "固定"
   },
   "u-next": {

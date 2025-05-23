@@ -285,5 +285,12 @@
     "site": "ちょびリッチ",
     "url": 20000,
     "rise_rate": 0.0
+  },
+    "rakutenichiba": {
+    "date": "2025-05-23",
+    "max_reward": 1,
+    "site": "ハピタス",
+    "url": 1,
+    "rise_rate": 0.0
   }
 }

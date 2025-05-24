@@ -4,7 +4,7 @@
     "max_reward": 28000,
     "site": "ハピタス",
     "url": 28000,
-    "rise_rate": 8,
+    "rise_rate": 0,
     "overall_max_reward_value": 28000,
     "overall_max_reward_date": "2025-03-29",
     "reward_type": "固定"
@@ -24,7 +24,7 @@
     "max_reward": 14000,
     "site": "ちょびリッチ",
     "url": 14000,
-    "rise_rate": 4,
+    "rise_rate": 0,
     "overall_max_reward_value": 16500,
     "overall_max_reward_date": "2025-04-16",
     "reward_type": "固定"
@@ -44,7 +44,7 @@
     "max_reward": 12000,
     "site": "モッピー",
     "url": 12000,
-    "rise_rate": 9,
+    "rise_rate": 0,
     "overall_max_reward_value": 13000,
     "overall_max_reward_date": "2025-03-30",
     "reward_type": "固定"
@@ -94,7 +94,7 @@
     "max_reward": 3000,
     "site": "モッピー",
     "url": 3000,
-    "rise_rate": 50,
+    "rise_rate": 0,
     "overall_max_reward_value": 4800,
     "overall_max_reward_date": "2025-04-20",
     "reward_type": "固定"
@@ -124,7 +124,7 @@
     "max_reward": 10000,
     "site": "ハピタス",
     "url": 10000,
-    "rise_rate": 11,
+    "rise_rate": 0,
     "overall_max_reward_value": 10000,
     "overall_max_reward_date": "2025-04-05",
     "reward_type": "固定"
@@ -134,7 +134,7 @@
     "max_reward": 13000,
     "site": "ハピタス",
     "url": 13000,
-    "rise_rate": 18,
+    "rise_rate": 0,
     "overall_max_reward_value": 13500,
     "overall_max_reward_date": "2025-04-19",
     "reward_type": "固定"
@@ -184,7 +184,7 @@
     "max_reward": 13500,
     "site": "モッピー",
     "url": 13500,
-    "rise_rate": 35,
+    "rise_rate": 0,
     "overall_max_reward_value": 15000,
     "overall_max_reward_date": "2025-04-22",
     "reward_type": "固定"
@@ -249,78 +249,8 @@
     "overall_max_reward_date": "2025-04-25",
     "reward_type": "固定"
   },
-  "moomoosec": {
-    "date": "2025-05-24",
-    "max_reward": 14000,
-    "site": "ハピタス",
-    "url": 14000,
-    "rise_rate": 0,
-    "overall_max_reward_value": 14000,
-    "overall_max_reward_date": "2025-04-25",
-    "reward_type": "固定"
-  },
-  "theo": {
-    "date": "2025-05-24",
-    "max_reward": 10000,
-    "site": "ちょびリッチ",
-    "url": 10000,
-    "rise_rate": 0,
-    "overall_max_reward_value": 10000,
-    "overall_max_reward_date": "2025-04-25",
-    "reward_type": "固定"
-  },
-  "theoplusdocomo": {
-    "date": "2025-05-24",
-    "max_reward": 10000,
-    "site": "ちょびリッチ",
-    "url": 10000,
-    "rise_rate": 0,
-    "overall_max_reward_value": 10000,
-    "overall_max_reward_date": "2025-04-25",
-    "reward_type": "固定"
-  },
-  "smbcbizownerscard": {
-    "date": "2025-05-24",
-    "max_reward": 25000,
-    "site": "ハピタス",
-    "url": 25000,
-    "rise_rate": 0,
-    "overall_max_reward_value": 30000,
-    "overall_max_reward_date": "2025-04-29",
-    "reward_type": "固定"
-  },
-  "smbcbizownerscardgold": {
-    "date": "2025-05-24",
-    "max_reward": 22000,
-    "site": "ちょびリッチ",
-    "url": 22000,
-    "rise_rate": 0,
-    "overall_max_reward_value": 28000,
-    "overall_max_reward_date": "2025-04-25",
-    "reward_type": "固定"
-  },
-  "bittrade": {
-    "date": "2025-05-24",
-    "max_reward": 12000,
-    "site": "アメフリ",
-    "url": 12000,
-    "rise_rate": 0,
-    "overall_max_reward_value": 13000,
-    "overall_max_reward_date": "2025-04-29",
-    "reward_type": "固定"
-  },
-  "coincheck": {
-    "date": "2025-05-24",
-    "max_reward": 4500,
-    "site": "ちょびリッチ",
-    "url": 4500,
-    "rise_rate": 12,
-    "overall_max_reward_value": 10100,
-    "overall_max_reward_date": "2025-04-28",
-    "reward_type": "固定"
-  },
   "dmmtv": {
-    "date": "2025-05-24",
+    "date": "2025-05-25",
     "max_reward": 550,
     "site": "ハピタス",
     "url": 550,
@@ -334,7 +264,7 @@
     "max_reward": 2200,
     "site": "ハピタス",
     "url": 2200,
-    "rise_rate": 10,
+    "rise_rate": 0,
     "overall_max_reward_value": 2200,
     "overall_max_reward_date": "2025-04-26",
     "reward_type": "固定"
@@ -384,7 +314,7 @@
     "max_reward": 6500,
     "site": "Powl",
     "url": 6500,
-    "rise_rate": 12,
+    "rise_rate": 0,
     "overall_max_reward_value": 6500,
     "overall_max_reward_date": "2025-05-24",
     "reward_type": "固定"
@@ -434,7 +364,7 @@
     "max_reward": 3,
     "site": "ハピタス",
     "url": 3.0,
-    "rise_rate": 50,
+    "rise_rate": 0,
     "overall_max_reward_value": 3,
     "overall_max_reward_date": "2025-05-24",
     "reward_type": "変動"
@@ -444,7 +374,7 @@
     "max_reward": 1.2,
     "site": "モッピー",
     "url": 1.2,
-    "rise_rate": 0.0,
+    "rise_rate": 0,
     "overall_max_reward_value": 1.2,
     "overall_max_reward_date": "2025-05-24",
     "reward_type": "変動"
@@ -454,7 +384,7 @@
     "max_reward": 1,
     "site": "ハピタス",
     "url": 1,
-    "rise_rate": 0.0,
+    "rise_rate": 0,
     "overall_max_reward_value": 1,
     "overall_max_reward_date": "2025-05-24",
     "reward_type": "変動"
@@ -464,7 +394,7 @@
     "max_reward": 1,
     "site": "ハピタス",
     "url": 1,
-    "rise_rate": 0.0,
+    "rise_rate": 0,
     "overall_max_reward_value": 1,
     "overall_max_reward_date": "2025-05-24",
     "reward_type": "変動"
@@ -474,7 +404,7 @@
     "max_reward": 1,
     "site": "モッピー",
     "url": 1,
-    "rise_rate": 0.0,
+    "rise_rate": 0,
     "overall_max_reward_value": 1,
     "overall_max_reward_date": "2025-05-24",
     "reward_type": "変動"
@@ -484,7 +414,7 @@
     "max_reward": 2.1,
     "site": "モッピー",
     "url": 2.1,
-    "rise_rate": 0.0,
+    "rise_rate": 0,
     "overall_max_reward_value": 2.1,
     "overall_max_reward_date": "2025-05-24",
     "reward_type": "変動"
@@ -494,7 +424,7 @@
     "max_reward": 1,
     "site": "ハピタス",
     "url": 1,
-    "rise_rate": 0.0,
+    "rise_rate": 0,
     "overall_max_reward_value": 1,
     "overall_max_reward_date": "2025-05-24",
     "reward_type": "変動"

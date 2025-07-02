@@ -44,7 +44,7 @@
     "max_reward": 12000,
     "site": "モッピー",
     "url": 12000,
-    "rise_rate": 9,
+    "rise_rate": 0,
     "overall_max_reward_value": 13000,
     "overall_max_reward_date": "2025-06-20",
     "reward_type": "固定"
@@ -94,7 +94,7 @@
     "max_reward": 13500,
     "site": "ハピタス",
     "url": 13500,
-    "rise_rate": 4,
+    "rise_rate": 0,
     "overall_max_reward_value": 18000,
     "overall_max_reward_date": "2025-06-29",
     "reward_type": "固定"
@@ -134,7 +134,7 @@
     "max_reward": 1000,
     "site": "ハピタス",
     "url": 1000,
-    "rise_rate": -85,
+    "rise_rate": 0,
     "overall_max_reward_value": 10000,
     "overall_max_reward_date": "2025-06-01",
     "reward_type": "固定"
@@ -144,7 +144,7 @@
     "max_reward": 1000,
     "site": "ハピタス",
     "url": 1000,
-    "rise_rate": -85,
+    "rise_rate": 0,
     "overall_max_reward_value": 20000,
     "overall_max_reward_date": "2025-06-01",
     "reward_type": "固定"
@@ -194,7 +194,7 @@
     "max_reward": 18000,
     "site": "ちょびリッチ",
     "url": 18000,
-    "rise_rate": 20,
+    "rise_rate": 0,
     "overall_max_reward_value": 20000,
     "overall_max_reward_date": "2025-06-26",
     "reward_type": "固定"
@@ -214,7 +214,7 @@
     "max_reward": 2300,
     "site": "ハピタス",
     "url": 2300,
-    "rise_rate": 15,
+    "rise_rate": 0,
     "overall_max_reward_value": 2500,
     "overall_max_reward_date": "2025-06-30",
     "reward_type": "固定"
@@ -284,7 +284,7 @@
     "max_reward": 11000,
     "site": "アメフリ",
     "url": 11000,
-    "rise_rate": 45,
+    "rise_rate": 0,
     "overall_max_reward_value": 13000,
     "overall_max_reward_date": "2025-04-29",
     "reward_type": "固定"
@@ -344,7 +344,7 @@
     "max_reward": 7800,
     "site": "Powl",
     "url": 7800,
-    "rise_rate": 311,
+    "rise_rate": 0,
     "overall_max_reward_value": 11000,
     "overall_max_reward_date": "2025-05-31",
     "reward_type": "固定"
@@ -564,7 +564,7 @@
     "max_reward": 1300,
     "site": "ちょびリッチ",
     "url": 1300,
-    "rise_rate": -13,
+    "rise_rate": 0,
     "overall_max_reward_value": 1500,
     "overall_max_reward_date": "2025-07-01",
     "reward_type": "固定"

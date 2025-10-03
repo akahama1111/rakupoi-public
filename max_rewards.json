@@ -362,7 +362,7 @@
   "recruitcard": {
     "date": "2025-10-03",
     "max_reward": 4500,
-    "site": "Powl",
+    "site": "モッピー",
     "url": 4500,
     "rise_rate": 200,
     "overall_max_reward_value": 6000,
@@ -481,11 +481,11 @@
   },
   "uniqlo": {
     "date": "2025-10-03",
-    "max_reward": 700,
+    "max_reward": 100,
     "site": "ポイントインカム",
-    "url": 700,
-    "rise_rate": 34900,
-    "overall_max_reward_value": 700,
+    "url": 100,
+    "rise_rate": 4900,
+    "overall_max_reward_value": 100,
     "overall_max_reward_date": "2025-10-03",
     "reward_type": "変動"
   },
@@ -762,7 +762,7 @@
   "edion": {
     "date": "2025-10-03",
     "max_reward": 1,
-    "site": "Powl",
+    "site": "ポイントインカム",
     "url": 1,
     "rise_rate": 0,
     "overall_max_reward_value": 2.4,
@@ -781,11 +781,11 @@
   },
   "towerrecords": {
     "date": "2025-10-03",
-    "max_reward": 2100,
+    "max_reward": 2000,
     "site": "ポイントインカム",
-    "url": 2100,
-    "rise_rate": 209900,
-    "overall_max_reward_value": 2100,
+    "url": 2000,
+    "rise_rate": 199900,
+    "overall_max_reward_value": 2000,
     "overall_max_reward_date": "2025-10-03",
     "reward_type": "変動"
   },
@@ -824,7 +824,7 @@
     "max_reward": 20000,
     "site": "モッピー",
     "url": 20000,
-    "rise_rate": 0.0,
+    "rise_rate": 0,
     "overall_max_reward_value": 20000,
     "overall_max_reward_date": "2025-10-03",
     "reward_type": "固定"

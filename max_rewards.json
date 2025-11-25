@@ -4,7 +4,7 @@
     "max_reward": 19000,
     "site": "ハピタス",
     "url": 19000,
-    "rise_rate": -12,
+    "rise_rate": 0,
     "overall_max_reward_value": 30000,
     "overall_max_reward_date": "2025-06-30",
     "reward_type": "固定"
@@ -24,7 +24,7 @@
     "max_reward": 13500,
     "site": "Powl",
     "url": 13500,
-    "rise_rate": -23,
+    "rise_rate": 0,
     "overall_max_reward_value": 20000,
     "overall_max_reward_date": "2025-10-31",
     "reward_type": "固定"
@@ -44,7 +44,7 @@
     "max_reward": 10000,
     "site": "ハピタス",
     "url": 10000,
-    "rise_rate": -17,
+    "rise_rate": 0,
     "overall_max_reward_value": 14000,
     "overall_max_reward_date": "2025-10-29",
     "reward_type": "固定"
@@ -54,7 +54,7 @@
     "max_reward": 10000,
     "site": "モッピー",
     "url": 10000,
-    "rise_rate": -9,
+    "rise_rate": 0,
     "overall_max_reward_value": 14300,
     "overall_max_reward_date": "2025-03-31",
     "reward_type": "固定"
@@ -94,7 +94,7 @@
     "max_reward": 4000,
     "site": "ハピタス",
     "url": 4000,
-    "rise_rate": -20,
+    "rise_rate": 0,
     "overall_max_reward_value": 5000,
     "overall_max_reward_date": "2025-11-24",
     "reward_type": "固定"
@@ -114,7 +114,7 @@
     "max_reward": 10000,
     "site": "ハピタス",
     "url": 10000,
-    "rise_rate": -23,
+    "rise_rate": 0,
     "overall_max_reward_value": 17000,
     "overall_max_reward_date": "2025-08-10",
     "reward_type": "固定"
@@ -134,7 +134,7 @@
     "max_reward": 14000,
     "site": "モッピー",
     "url": 14000,
-    "rise_rate": -7,
+    "rise_rate": 0,
     "overall_max_reward_value": 15500,
     "overall_max_reward_date": "2025-07-27",
     "reward_type": "固定"
@@ -344,7 +344,7 @@
     "max_reward": 2000,
     "site": "ハピタス",
     "url": 2000,
-    "rise_rate": -13,
+    "rise_rate": 0,
     "overall_max_reward_value": 2400,
     "overall_max_reward_date": "2025-10-26",
     "reward_type": "固定"
@@ -404,7 +404,7 @@
     "max_reward": 3000,
     "site": "ポイントインカム",
     "url": 3000,
-    "rise_rate": 7,
+    "rise_rate": 0,
     "overall_max_reward_value": 3750,
     "overall_max_reward_date": "2025-11-20",
     "reward_type": "固定"
@@ -534,7 +534,7 @@
     "max_reward": 8000,
     "site": "モッピー",
     "url": 8000,
-    "rise_rate": -27,
+    "rise_rate": 0,
     "overall_max_reward_value": 11000,
     "overall_max_reward_date": "2025-11-24",
     "reward_type": "固定"
@@ -604,7 +604,7 @@
     "max_reward": 8500,
     "site": "モッピー",
     "url": 8500,
-    "rise_rate": -1,
+    "rise_rate": 0,
     "overall_max_reward_value": 11000,
     "overall_max_reward_date": "2025-10-28",
     "reward_type": "固定"
@@ -644,7 +644,7 @@
     "max_reward": 11000,
     "site": "ハピタス",
     "url": 11000,
-    "rise_rate": -39,
+    "rise_rate": 0,
     "overall_max_reward_value": 18000,
     "overall_max_reward_date": "2025-11-24",
     "reward_type": "固定"
@@ -654,7 +654,7 @@
     "max_reward": 18000,
     "site": "モッピー",
     "url": 18000,
-    "rise_rate": -10,
+    "rise_rate": 0,
     "overall_max_reward_value": 21000,
     "overall_max_reward_date": "2025-09-28",
     "reward_type": "固定"
@@ -814,7 +814,7 @@
     "max_reward": 4500,
     "site": "ポイントインカム",
     "url": 4500,
-    "rise_rate": -10,
+    "rise_rate": 0,
     "overall_max_reward_value": 5000,
     "overall_max_reward_date": "2025-11-24",
     "reward_type": "固定"

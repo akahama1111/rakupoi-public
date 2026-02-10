@@ -1,26 +1,26 @@
 {
   "sbisec": {
-    "date": "2026-02-10",
-    "max_reward": 21500,
-    "site": "モッピー",
-    "url": 21500,
-    "rise_rate": 0,
+    "date": "2026-02-11",
+    "max_reward": 22000,
+    "site": "ハピタス",
+    "url": 22000,
+    "rise_rate": 2,
     "overall_max_reward_value": 30000,
     "overall_max_reward_date": "2025-06-30",
     "reward_type": "固定"
   },
   "rakutensec": {
-    "date": "2026-02-10",
+    "date": "2026-02-11",
     "max_reward": 22000,
-    "site": "モッピー",
+    "site": "ハピタス",
     "url": 22000,
-    "rise_rate": 120,
+    "rise_rate": 0,
     "overall_max_reward_value": 24000,
     "overall_max_reward_date": "2025-05-08",
     "reward_type": "固定"
   },
   "monexsec": {
-    "date": "2026-02-10",
+    "date": "2026-02-11",
     "max_reward": 0,
     "site": "ハピタス",
     "url": 0,
@@ -30,7 +30,7 @@
     "reward_type": "固定"
   },
   "matsuisec": {
-    "date": "2026-02-10",
+    "date": "2026-02-11",
     "max_reward": 2000,
     "site": "モッピー",
     "url": 2000,
@@ -40,7 +40,7 @@
     "reward_type": "固定"
   },
   "esmartsec": {
-    "date": "2026-02-10",
+    "date": "2026-02-11",
     "max_reward": 15000,
     "site": "モッピー",
     "url": 15000,
@@ -50,7 +50,7 @@
     "reward_type": "固定"
   },
   "olivebank": {
-    "date": "2026-02-10",
+    "date": "2026-02-11",
     "max_reward": 13000,
     "site": "モッピー",
     "url": 13000,
@@ -60,19 +60,19 @@
     "reward_type": "固定"
   },
   "olivebankswitch": {
-    "date": "2026-02-10",
-    "max_reward": 1000,
-    "site": "ちょびリッチ",
-    "url": 1000,
-    "rise_rate": -60,
+    "date": "2026-02-11",
+    "max_reward": 2500,
+    "site": "モッピー",
+    "url": 2500,
+    "rise_rate": 150,
     "overall_max_reward_value": 5000,
     "overall_max_reward_date": "2025-03-31",
     "reward_type": "固定"
   },
   "olivecard": {
-    "date": "2026-02-10",
+    "date": "2026-02-11",
     "max_reward": 10000,
-    "site": "モッピー",
+    "site": "ハピタス",
     "url": 10000,
     "rise_rate": 0,
     "overall_max_reward_value": 17500,
@@ -80,9 +80,9 @@
     "reward_type": "固定"
   },
   "mufgbank": {
-    "date": "2026-02-10",
+    "date": "2026-02-11",
     "max_reward": 1500,
-    "site": "モッピー",
+    "site": "ハピタス",
     "url": 1500,
     "rise_rate": 0,
     "overall_max_reward_value": 22000,
@@ -90,27 +90,27 @@
     "reward_type": "固定"
   },
   "risonabank": {
-    "date": "2026-02-10",
+    "date": "2026-02-11",
     "max_reward": 3300,
-    "site": "モッピー",
+    "site": "ハピタス",
     "url": 3300,
-    "rise_rate": 0.0,
+    "rise_rate": 0,
     "overall_max_reward_value": 5000,
     "overall_max_reward_date": "2025-11-27",
     "reward_type": "固定"
   },
   "smbccard": {
-    "date": "2026-02-10",
-    "max_reward": 12500,
-    "site": "ちょびリッチ",
-    "url": 12500,
-    "rise_rate": -22,
+    "date": "2026-02-11",
+    "max_reward": 14000,
+    "site": "ハピタス",
+    "url": 14000,
+    "rise_rate": 12,
     "overall_max_reward_value": 18000,
     "overall_max_reward_date": "2025-06-29",
     "reward_type": "固定"
   },
   "smbccardgold": {
-    "date": "2026-02-10",
+    "date": "2026-02-11",
     "max_reward": 13000,
     "site": "モッピー",
     "url": 13000,
@@ -120,17 +120,17 @@
     "reward_type": "固定"
   },
   "rakutencard": {
-    "date": "2026-02-10",
+    "date": "2026-02-11",
     "max_reward": 10700,
-    "site": "モッピー",
+    "site": "ハピタス",
     "url": 10700,
     "rise_rate": 0,
     "overall_max_reward_value": 10700,
-    "overall_max_reward_date": "2026-02-10",
+    "overall_max_reward_date": "2026-02-11",
     "reward_type": "固定"
   },
   "eposcard": {
-    "date": "2026-02-10",
+    "date": "2026-02-11",
     "max_reward": 9000,
     "site": "モッピー",
     "url": 9000,
@@ -140,9 +140,9 @@
     "reward_type": "固定"
   },
   "dcardgold": {
-    "date": "2026-02-10",
+    "date": "2026-02-11",
     "max_reward": 25000,
-    "site": "モッピー",
+    "site": "ハピタス",
     "url": 25000,
     "rise_rate": 0,
     "overall_max_reward_value": 28000,
@@ -150,27 +150,27 @@
     "reward_type": "固定"
   },
   "dcardgoldu": {
-    "date": "2026-02-10",
+    "date": "2026-02-11",
     "max_reward": 20000,
-    "site": "モッピー",
+    "site": "ハピタス",
     "url": 20000,
     "rise_rate": 0,
     "overall_max_reward_value": 20000,
-    "overall_max_reward_date": "2026-02-10",
+    "overall_max_reward_date": "2026-02-11",
     "reward_type": "固定"
   },
   "mufgcard": {
-    "date": "2026-02-10",
+    "date": "2026-02-11",
     "max_reward": 10000,
-    "site": "モッピー",
+    "site": "ハピタス",
     "url": 10000,
     "rise_rate": 0,
     "overall_max_reward_value": 10000,
-    "overall_max_reward_date": "2026-02-10",
+    "overall_max_reward_date": "2026-02-11",
     "reward_type": "固定"
   },
   "minnafx": {
-    "date": "2026-02-10",
+    "date": "2026-02-11",
     "max_reward": 10000,
     "site": "モッピー",
     "url": 10000,
@@ -180,9 +180,9 @@
     "reward_type": "固定"
   },
   "lightfx": {
-    "date": "2026-02-10",
+    "date": "2026-02-11",
     "max_reward": 10000,
-    "site": "モッピー",
+    "site": "ハピタス",
     "url": 10000,
     "rise_rate": 0,
     "overall_max_reward_value": 16500,
@@ -190,9 +190,9 @@
     "reward_type": "固定"
   },
   "linefx": {
-    "date": "2026-02-10",
+    "date": "2026-02-11",
     "max_reward": 20000,
-    "site": "モッピー",
+    "site": "ハピタス",
     "url": 20000,
     "rise_rate": 0,
     "overall_max_reward_value": 25000,
@@ -200,17 +200,17 @@
     "reward_type": "固定"
   },
   "hirosefx": {
-    "date": "2026-02-10",
-    "max_reward": 4000,
-    "site": "モッピー",
-    "url": 4000,
-    "rise_rate": -20,
+    "date": "2026-02-11",
+    "max_reward": 5000,
+    "site": "ハピタス",
+    "url": 5000,
+    "rise_rate": 25,
     "overall_max_reward_value": 20000,
     "overall_max_reward_date": "2025-08-31",
     "reward_type": "固定"
   },
   "sbifx": {
-    "date": "2026-02-10",
+    "date": "2026-02-11",
     "max_reward": 4000,
     "site": "Powl",
     "url": 4000,
@@ -220,9 +220,9 @@
     "reward_type": "固定"
   },
   "gaitamecomfx": {
-    "date": "2026-02-10",
+    "date": "2026-02-11",
     "max_reward": 15000,
-    "site": "モッピー",
+    "site": "ハピタス",
     "url": 15000,
     "rise_rate": 0,
     "overall_max_reward_value": 16000,
@@ -230,27 +230,27 @@
     "reward_type": "固定"
   },
   "rakutenbank": {
-    "date": "2026-02-10",
+    "date": "2026-02-11",
     "max_reward": 5000,
-    "site": "モッピー",
+    "site": "ハピタス",
     "url": 5000,
     "rise_rate": 0,
     "overall_max_reward_value": 5000,
-    "overall_max_reward_date": "2026-02-10",
+    "overall_max_reward_date": "2026-02-11",
     "reward_type": "固定"
   },
   "sbishinseibank": {
-    "date": "2026-02-10",
+    "date": "2026-02-11",
     "max_reward": 1500,
-    "site": "モッピー",
+    "site": "ハピタス",
     "url": 1500,
     "rise_rate": 0,
     "overall_max_reward_value": 1500,
-    "overall_max_reward_date": "2026-02-10",
+    "overall_max_reward_date": "2026-02-11",
     "reward_type": "固定"
   },
   "paypaybank": {
-    "date": "2026-02-10",
+    "date": "2026-02-11",
     "max_reward": 1000,
     "site": "ちょびリッチ",
     "url": 1000,
@@ -260,7 +260,7 @@
     "reward_type": "固定"
   },
   "moomoosec": {
-    "date": "2026-02-10",
+    "date": "2026-02-11",
     "max_reward": 0,
     "site": "ハピタス",
     "url": 0,
@@ -270,7 +270,7 @@
     "reward_type": "固定"
   },
   "theo": {
-    "date": "2026-02-10",
+    "date": "2026-02-11",
     "max_reward": 11500,
     "site": "ちょびリッチ",
     "url": 11500,
@@ -280,7 +280,7 @@
     "reward_type": "固定"
   },
   "theoplusdocomo": {
-    "date": "2026-02-10",
+    "date": "2026-02-11",
     "max_reward": 11000,
     "site": "ちょびリッチ",
     "url": 11000,
@@ -290,9 +290,9 @@
     "reward_type": "固定"
   },
   "smbcbizownerscard": {
-    "date": "2026-02-10",
+    "date": "2026-02-11",
     "max_reward": 27000,
-    "site": "モッピー",
+    "site": "ハピタス",
     "url": 27000,
     "rise_rate": 0,
     "overall_max_reward_value": 30000,
@@ -300,17 +300,17 @@
     "reward_type": "固定"
   },
   "smbcbizownerscardgold": {
-    "date": "2026-02-10",
+    "date": "2026-02-11",
     "max_reward": 35000,
-    "site": "モッピー",
+    "site": "ハピタス",
     "url": 35000,
     "rise_rate": 0,
     "overall_max_reward_value": 35000,
-    "overall_max_reward_date": "2026-02-10",
+    "overall_max_reward_date": "2026-02-11",
     "reward_type": "固定"
   },
   "bittrade": {
-    "date": "2026-02-10",
+    "date": "2026-02-11",
     "max_reward": 0,
     "site": "ハピタス",
     "url": 0,
@@ -320,37 +320,37 @@
     "reward_type": "固定"
   },
   "coincheck": {
-    "date": "2026-02-10",
-    "max_reward": 3000,
-    "site": "モッピー",
-    "url": 3000,
-    "rise_rate": -33,
+    "date": "2026-02-11",
+    "max_reward": 4300,
+    "site": "ちょびリッチ",
+    "url": 4300,
+    "rise_rate": 43,
     "overall_max_reward_value": 10100,
     "overall_max_reward_date": "2025-04-30",
     "reward_type": "固定"
   },
   "dmmtv": {
-    "date": "2026-02-10",
+    "date": "2026-02-11",
     "max_reward": 650,
-    "site": "ポイントインカム",
+    "site": "ハピタス",
     "url": 650,
     "rise_rate": 0,
     "overall_max_reward_value": 650,
-    "overall_max_reward_date": "2026-02-10",
+    "overall_max_reward_date": "2026-02-11",
     "reward_type": "固定"
   },
   "u-next": {
-    "date": "2026-02-10",
-    "max_reward": 2000,
-    "site": "モッピー",
-    "url": 2000,
-    "rise_rate": 0,
+    "date": "2026-02-11",
+    "max_reward": 2200,
+    "site": "ハピタス",
+    "url": 2200,
+    "rise_rate": 10,
     "overall_max_reward_value": 2400,
     "overall_max_reward_date": "2026-01-05",
     "reward_type": "固定"
   },
   "disneyplus": {
-    "date": "2026-02-10",
+    "date": "2026-02-11",
     "max_reward": 1400,
     "site": "ポイントインカム",
     "url": 1400,
@@ -360,7 +360,7 @@
     "reward_type": "固定"
   },
   "recruitcard": {
-    "date": "2026-02-10",
+    "date": "2026-02-11",
     "max_reward": 1500,
     "site": "アメフリ",
     "url": 1500,
@@ -370,17 +370,17 @@
     "reward_type": "固定"
   },
   "aupaycard": {
-    "date": "2026-02-10",
-    "max_reward": 8000,
-    "site": "Powl",
-    "url": 8000,
-    "rise_rate": -11,
+    "date": "2026-02-11",
+    "max_reward": 9000,
+    "site": "ハピタス",
+    "url": 9000,
+    "rise_rate": 12,
     "overall_max_reward_value": 12300,
     "overall_max_reward_date": "2025-12-22",
     "reward_type": "固定"
   },
   "mercard": {
-    "date": "2026-02-10",
+    "date": "2026-02-11",
     "max_reward": 4500,
     "site": "ポイントインカム",
     "url": 4500,
@@ -390,17 +390,17 @@
     "reward_type": "固定"
   },
   "aeoncard": {
-    "date": "2026-02-10",
+    "date": "2026-02-11",
     "max_reward": 4800,
     "site": "Powl",
     "url": 4800,
-    "rise_rate": -2,
+    "rise_rate": 0,
     "overall_max_reward_value": 6500,
     "overall_max_reward_date": "2025-05-26",
     "reward_type": "固定"
   },
   "povo": {
-    "date": "2026-02-10",
+    "date": "2026-02-11",
     "max_reward": 0,
     "site": "ハピタス",
     "url": 0,
@@ -410,27 +410,27 @@
     "reward_type": "固定"
   },
   "ahamo": {
-    "date": "2026-02-10",
+    "date": "2026-02-11",
     "max_reward": 20000,
-    "site": "モッピー",
+    "site": "ハピタス",
     "url": 20000,
     "rise_rate": 0,
     "overall_max_reward_value": 20000,
-    "overall_max_reward_date": "2026-02-10",
+    "overall_max_reward_date": "2026-02-11",
     "reward_type": "固定"
   },
   "rakutenichiba": {
-    "date": "2026-02-10",
+    "date": "2026-02-11",
     "max_reward": 1,
-    "site": "モッピー",
+    "site": "ハピタス",
     "url": 1,
     "rise_rate": 0,
     "overall_max_reward_value": 1,
-    "overall_max_reward_date": "2026-02-10",
+    "overall_max_reward_date": "2026-02-11",
     "reward_type": "変動"
   },
   "yahooshopping": {
-    "date": "2026-02-10",
+    "date": "2026-02-11",
     "max_reward": 1.3,
     "site": "Powl",
     "url": 1.3,
@@ -440,7 +440,7 @@
     "reward_type": "変動"
   },
   "biccamera": {
-    "date": "2026-02-10",
+    "date": "2026-02-11",
     "max_reward": 2,
     "site": "モッピー",
     "url": 2.0,
@@ -450,9 +450,9 @@
     "reward_type": "変動"
   },
   "aupaymarket": {
-    "date": "2026-02-10",
+    "date": "2026-02-11",
     "max_reward": 1,
-    "site": "ちょびリッチ",
+    "site": "ハピタス",
     "url": 1.0,
     "rise_rate": 0,
     "overall_max_reward_value": 3,
@@ -460,57 +460,57 @@
     "reward_type": "変動"
   },
   "mercari": {
-    "date": "2026-02-10",
+    "date": "2026-02-11",
     "max_reward": 1,
-    "site": "アメフリ",
-    "url": 1,
+    "site": "ハピタス",
+    "url": 1.0,
     "rise_rate": 0,
     "overall_max_reward_value": 1,
-    "overall_max_reward_date": "2026-02-10",
+    "overall_max_reward_date": "2026-02-11",
     "reward_type": "変動"
   },
   "mercarishop": {
-    "date": "2026-02-10",
+    "date": "2026-02-11",
     "max_reward": 2,
-    "site": "モッピー",
+    "site": "ハピタス",
     "url": 2,
     "rise_rate": 0,
     "overall_max_reward_value": 2,
-    "overall_max_reward_date": "2026-02-10",
+    "overall_max_reward_date": "2026-02-11",
     "reward_type": "変動"
   },
   "uniqlo": {
-    "date": "2026-02-10",
+    "date": "2026-02-11",
     "max_reward": 2,
     "site": "モッピー",
     "url": 2.0,
     "rise_rate": 0,
     "overall_max_reward_value": 2,
-    "overall_max_reward_date": "2026-02-10",
+    "overall_max_reward_date": "2026-02-11",
     "reward_type": "変動"
   },
   "gu": {
-    "date": "2026-02-10",
+    "date": "2026-02-11",
     "max_reward": 1,
     "site": "モッピー",
     "url": 1,
     "rise_rate": 0,
     "overall_max_reward_value": 1,
-    "overall_max_reward_date": "2026-02-10",
+    "overall_max_reward_date": "2026-02-11",
     "reward_type": "変動"
   },
   "jalan": {
-    "date": "2026-02-10",
-    "max_reward": 1.6,
-    "site": "ちょびリッチ",
-    "url": 1.6,
-    "rise_rate": -20,
+    "date": "2026-02-11",
+    "max_reward": 2,
+    "site": "ハピタス",
+    "url": 2,
+    "rise_rate": 25,
     "overall_max_reward_value": 3,
     "overall_max_reward_date": "2025-06-15",
     "reward_type": "変動"
   },
   "rakutentravel": {
-    "date": "2026-02-10",
+    "date": "2026-02-11",
     "max_reward": 1,
     "site": "ハピタス",
     "url": 1.0,
@@ -520,29 +520,29 @@
     "reward_type": "変動"
   },
   "jalcardnavi": {
-    "date": "2026-02-10",
-    "max_reward": 6500,
-    "site": "モッピー",
-    "url": 6500,
-    "rise_rate": -7,
+    "date": "2026-02-11",
+    "max_reward": 7000,
+    "site": "ちょびリッチ",
+    "url": 7000,
+    "rise_rate": 8,
     "overall_max_reward_value": 7000,
-    "overall_max_reward_date": "2026-02-09",
+    "overall_max_reward_date": "2026-02-11",
     "reward_type": "固定"
   },
   "jfrcard": {
-    "date": "2026-02-10",
-    "max_reward": 7000,
-    "site": "モッピー",
-    "url": 7000,
-    "rise_rate": 0,
+    "date": "2026-02-11",
+    "max_reward": 8500,
+    "site": "ちょびリッチ",
+    "url": 8500,
+    "rise_rate": 21,
     "overall_max_reward_value": 12000,
     "overall_max_reward_date": "2025-12-28",
     "reward_type": "固定"
   },
   "agoda": {
-    "date": "2026-02-10",
+    "date": "2026-02-11",
     "max_reward": 5,
-    "site": "ポイントインカム",
+    "site": "ハピタス",
     "url": 5,
     "rise_rate": 0,
     "overall_max_reward_value": 8,
@@ -550,17 +550,17 @@
     "reward_type": "変動"
   },
   "qoo10": {
-    "date": "2026-02-10",
+    "date": "2026-02-11",
     "max_reward": 1.9,
     "site": "Powl",
     "url": 1.9,
-    "rise_rate": -76,
+    "rise_rate": 0,
     "overall_max_reward_value": 20,
     "overall_max_reward_date": "2025-07-09",
     "reward_type": "変動"
   },
   "hotpepper": {
-    "date": "2026-02-10",
+    "date": "2026-02-11",
     "max_reward": 120,
     "site": "モッピー",
     "url": 120,
@@ -570,7 +570,7 @@
     "reward_type": "固定"
   },
   "abema": {
-    "date": "2026-02-10",
+    "date": "2026-02-11",
     "max_reward": 0,
     "site": "ハピタス",
     "url": 0,
@@ -584,7 +584,7 @@
     "max_reward": 5000,
     "site": "モッピー",
     "url": 5000,
-    "rise_rate": 0.0,
+    "rise_rate": 0,
     "overall_max_reward_value": 11750,
     "overall_max_reward_date": "2025-09-15",
     "reward_type": "固定"
@@ -600,27 +600,27 @@
     "reward_type": "固定"
   },
   "7card": {
-    "date": "2026-02-09",
-    "max_reward": 8500,
-    "site": "ちょびリッチ",
-    "url": 8500,
-    "rise_rate": 0,
+    "date": "2026-02-11",
+    "max_reward": 9000,
+    "site": "モッピー",
+    "url": 9000,
+    "rise_rate": 0.0,
     "overall_max_reward_value": 11000,
     "overall_max_reward_date": "2025-10-28",
     "reward_type": "固定"
   },
   "hulu": {
-    "date": "2026-02-09",
+    "date": "2026-02-11",
     "max_reward": 1400,
     "site": "Powl",
     "url": 1400,
-    "rise_rate": 0,
+    "rise_rate": 0.0,
     "overall_max_reward_value": 2400,
     "overall_max_reward_date": "2026-01-01",
     "reward_type": "固定"
   },
   "tripcom": {
-    "date": "2026-02-10",
+    "date": "2026-02-11",
     "max_reward": 7,
     "site": "モッピー",
     "url": 7,
@@ -630,7 +630,7 @@
     "reward_type": "変動"
   },
   "irisplaza": {
-    "date": "2026-02-10",
+    "date": "2026-02-11",
     "max_reward": 3,
     "site": "ポイントインカム",
     "url": 3,
@@ -640,17 +640,17 @@
     "reward_type": "変動"
   },
   "saisonam": {
-    "date": "2026-02-10",
-    "max_reward": 11000,
-    "site": "モッピー",
-    "url": 11000,
-    "rise_rate": -8,
+    "date": "2026-02-11",
+    "max_reward": 12000,
+    "site": "ハピタス",
+    "url": 12000,
+    "rise_rate": 9,
     "overall_max_reward_value": 18000,
     "overall_max_reward_date": "2025-11-24",
     "reward_type": "固定"
   },
   "rakutenenergy": {
-    "date": "2026-02-10",
+    "date": "2026-02-11",
     "max_reward": 20000,
     "site": "モッピー",
     "url": 20000,
@@ -660,7 +660,7 @@
     "reward_type": "固定"
   },
   "bitflyer": {
-    "date": "2026-02-10",
+    "date": "2026-02-11",
     "max_reward": 5000,
     "site": "ポイントインカム",
     "url": 5000,
@@ -670,17 +670,17 @@
     "reward_type": "固定"
   },
   "yamadamall": {
-    "date": "2026-02-10",
+    "date": "2026-02-11",
     "max_reward": 0.7,
     "site": "モッピー",
     "url": 0.7,
     "rise_rate": 0,
     "overall_max_reward_value": 0.7,
-    "overall_max_reward_date": "2026-02-10",
+    "overall_max_reward_date": "2026-02-11",
     "reward_type": "変動"
   },
   "asoview": {
-    "date": "2026-02-10",
+    "date": "2026-02-11",
     "max_reward": 2,
     "site": "ちょびリッチ",
     "url": 2,
@@ -690,7 +690,7 @@
     "reward_type": "変動"
   },
   "iherb": {
-    "date": "2026-02-10",
+    "date": "2026-02-11",
     "max_reward": 4,
     "site": "ポイントインカム",
     "url": 4.0,
@@ -700,17 +700,17 @@
     "reward_type": "変動"
   },
   "mizuhobank": {
-    "date": "2026-02-10",
+    "date": "2026-02-11",
     "max_reward": 7000,
     "site": "ハピタス",
     "url": 7000,
     "rise_rate": 0,
     "overall_max_reward_value": 7000,
-    "overall_max_reward_date": "2026-02-10",
+    "overall_max_reward_date": "2026-02-11",
     "reward_type": "固定"
   },
   "mufgcardbank": {
-    "date": "2026-02-10",
+    "date": "2026-02-11",
     "max_reward": 3000,
     "site": "モッピー",
     "url": 3000,
@@ -720,7 +720,7 @@
     "reward_type": "固定"
   },
   "lenovo": {
-    "date": "2026-02-10",
+    "date": "2026-02-11",
     "max_reward": 2.29,
     "site": "アメフリ",
     "url": 2.29,
@@ -730,7 +730,7 @@
     "reward_type": "変動"
   },
   "applestore": {
-    "date": "2026-02-10",
+    "date": "2026-02-11",
     "max_reward": 1,
     "site": "モッピー",
     "url": 1,
@@ -740,7 +740,7 @@
     "reward_type": "変動"
   },
   "hpdirectplus": {
-    "date": "2026-02-10",
+    "date": "2026-02-11",
     "max_reward": 2,
     "site": "モッピー",
     "url": 2.0,
@@ -750,9 +750,9 @@
     "reward_type": "変動"
   },
   "primevideo": {
-    "date": "2026-02-10",
+    "date": "2026-02-11",
     "max_reward": 500,
-    "site": "モッピー",
+    "site": "ハピタス",
     "url": 500,
     "rise_rate": 0,
     "overall_max_reward_value": 510,
@@ -760,7 +760,7 @@
     "reward_type": "固定"
   },
   "edion": {
-    "date": "2026-02-10",
+    "date": "2026-02-11",
     "max_reward": 0,
     "site": "ハピタス",
     "url": 0.0,
@@ -770,7 +770,7 @@
     "reward_type": "変動"
   },
   "mercarimobile": {
-    "date": "2026-02-10",
+    "date": "2026-02-11",
     "max_reward": 2100,
     "site": "アメフリ",
     "url": 2100,
@@ -780,7 +780,7 @@
     "reward_type": "固定"
   },
   "towerrecords": {
-    "date": "2026-02-10",
+    "date": "2026-02-11",
     "max_reward": 0.8,
     "site": "Powl",
     "url": 0.8,
@@ -790,7 +790,7 @@
     "reward_type": "変動"
   },
   "onebank": {
-    "date": "2026-02-10",
+    "date": "2026-02-11",
     "max_reward": 800,
     "site": "Powl",
     "url": 800,
@@ -800,9 +800,9 @@
     "reward_type": "固定"
   },
   "idare": {
-    "date": "2026-02-10",
+    "date": "2026-02-11",
     "max_reward": 1000,
-    "site": "モッピー",
+    "site": "ハピタス",
     "url": 1000,
     "rise_rate": 0,
     "overall_max_reward_value": 1250,
@@ -810,17 +810,17 @@
     "reward_type": "固定"
   },
   "creal": {
-    "date": "2026-02-10",
-    "max_reward": 2000,
-    "site": "ポイントインカム",
-    "url": 2000,
-    "rise_rate": -56,
+    "date": "2026-02-11",
+    "max_reward": 2300,
+    "site": "ハピタス",
+    "url": 2300,
+    "rise_rate": 15,
     "overall_max_reward_value": 5500,
     "overall_max_reward_date": "2026-01-18",
     "reward_type": "固定"
   },
   "stonexsec": {
-    "date": "2026-02-10",
+    "date": "2026-02-11",
     "max_reward": 0,
     "site": "ハピタス",
     "url": 0,
@@ -830,27 +830,27 @@
     "reward_type": "固定"
   },
   "smbccardvisainfinite": {
-    "date": "2026-02-10",
+    "date": "2026-02-11",
     "max_reward": 30000,
-    "site": "モッピー",
+    "site": "ハピタス",
     "url": 30000,
     "rise_rate": 0,
     "overall_max_reward_value": 30000,
-    "overall_max_reward_date": "2026-02-10",
+    "overall_max_reward_date": "2026-02-11",
     "reward_type": "固定"
   },
   "dneobank": {
-    "date": "2026-02-10",
+    "date": "2026-02-11",
     "max_reward": 1500,
-    "site": "モッピー",
+    "site": "ハピタス",
     "url": 1500,
     "rise_rate": 0,
     "overall_max_reward_value": 1500,
-    "overall_max_reward_date": "2026-02-10",
+    "overall_max_reward_date": "2026-02-11",
     "reward_type": "固定"
   },
   "minnanoginko": {
-    "date": "2026-02-10",
+    "date": "2026-02-11",
     "max_reward": 0,
     "site": "ハピタス",
     "url": 0,
@@ -860,27 +860,27 @@
     "reward_type": "固定"
   },
   "habitto": {
-    "date": "2026-02-10",
+    "date": "2026-02-11",
     "max_reward": 4000,
     "site": "モッピー",
     "url": 4000,
     "rise_rate": 0,
     "overall_max_reward_value": 4000,
-    "overall_max_reward_date": "2026-02-10",
+    "overall_max_reward_date": "2026-02-11",
     "reward_type": "固定"
   },
   "dshopping": {
-    "date": "2026-02-10",
+    "date": "2026-02-11",
     "max_reward": 0.8,
     "site": "Powl",
     "url": 0.8,
     "rise_rate": 0,
     "overall_max_reward_value": 0.8,
-    "overall_max_reward_date": "2026-02-10",
+    "overall_max_reward_date": "2026-02-11",
     "reward_type": "変動"
   },
   "aliexpress-pc": {
-    "date": "2026-02-10",
+    "date": "2026-02-11",
     "max_reward": 9,
     "site": "モッピー",
     "url": 9,
@@ -890,11 +890,11 @@
     "reward_type": "変動"
   },
   "aeonstyleonline": {
-    "date": "2026-02-10",
+    "date": "2026-02-11",
     "max_reward": 2,
     "site": "モッピー",
     "url": 2,
-    "rise_rate": -75,
+    "rise_rate": 0,
     "overall_max_reward_value": 8,
     "overall_max_reward_date": "2026-02-09",
     "reward_type": "変動"
